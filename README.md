@@ -14,9 +14,9 @@ return	 $meals;
 
 # WordPress Shortcode
 
-this is the shortcode [meals]
+this is the shortcode <code>[meals]</code>
 
 # HTML variable
 
-use {$meals} everiwere you need it.
+use <code>{$meals}</code> everiwere you need it.
 
