@@ -18,5 +18,5 @@ this is the shortcode <code>[meals]</code>
 
 # HTML variable
 
-use <code>{$meals}</code> everiwere you need it.
+use <code>{$meals}</code> everywere you need it.
 
